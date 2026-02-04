@@ -1,5 +1,5 @@
 
-// PARTNER NAME:    Kaan Kocaman
+// PARTNER NAME: Kaan Kocaman
 // CS111 SECTION #: SP26 CS 111 1258
 // DATE: 2/4/26
 // PROGRAM DESCRIPTION: Prints a low-resolution Employment Authorization Card (EAC)
